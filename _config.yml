@@ -50,8 +50,8 @@ excerpt_separator: <!-- more -->
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
   weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
-  email: #youremailaddress@mail.com
-  github: FromEndWorld/loffer #https://github.com/<>
+  email: Q29KAW5N@outlook.com #youremailaddress@mail.com
+  github:https://github.com/Q29KAW5N #https://github.com/<>
   rss: #随便填点啥RSS就能用了
   
 # 站点页脚的文字
