@@ -51,7 +51,7 @@ excerpt_separator: <!-- more -->
 footer-links: 
   weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   email: Q29KAW5N@outlook.com #youremailaddress@mail.com
-  github:https://github.com/Q29KAW5N #https://github.com/<>
+  github: https://github.com/Q29KAW5N #https://github.com/<>
   rss: #随便填点啥RSS就能用了
   
 # 站点页脚的文字
