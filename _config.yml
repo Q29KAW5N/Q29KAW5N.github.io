@@ -64,12 +64,12 @@ footer-text: Copyright (c) 2025
 #disqus: loffer #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
-#gitalk:
- # clientID: 
- # clientSecret: 
- # repo: 
-  #  owner: 
-  #  proxy:
+gitalk:
+  clientID: Ov23lijUKWKXfQnDtayT
+ clientSecret: 124de048d34d7b3038d62b87dd71787fd25de86d
+  repo: https://github.com/Q29KAW5N/Q29KAW5N.github.io
+    owner: Q29KAW5N
+   proxy:
 
 # 输入Google Analytics web tracking code
 #google_analytics:
