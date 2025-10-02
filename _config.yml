@@ -69,7 +69,7 @@ gitalk:
  clientSecret: 124de048d34d7b3038d62b87dd71787fd25de86d
   repo: https://github.com/Q29KAW5N/Q29KAW5N.github.io
     owner: Q29KAW5N
-   proxy:
+    proxy:
 
 # 输入Google Analytics web tracking code
 #google_analytics:
